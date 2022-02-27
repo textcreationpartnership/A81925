@@ -1,0 +1,200 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Motives to induce the Protestant princes to mind the worke of peace ecclesiasticall amongst themselves.</title>
+            <author>Dury, John, 1596-1680.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1641</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 18 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A81925</idno>
+            <idno type="STC">Wing D2875</idno>
+            <idno type="STC">Thomason E160_30</idno>
+            <idno type="STC">ESTC R23320</idno>
+            <idno type="EEBO-CITATION">99871969</idno>
+            <idno type="PROQUEST">99871969</idno>
+            <idno type="VID">156931</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A81925)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 156931)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 28:E160[30])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Motives to induce the Protestant princes to mind the worke of peace ecclesiasticall amongst themselves.</title>
+                  <author>Dury, John, 1596-1680.</author>
+               </titleStmt>
+               <extent>[2], 10 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for William Hope, and are to be sold at the Unicorne in Cornehill,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1641.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Peace --  Religious aspects --  Christianity --  Early works to 1800.</term>
+               <term>Protestant churches --  Europe --  Early works to 1800.</term>
+               <term>Europe --  Politics and government --  1517-1648 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-02</date>
+            <label>Kayla Ondracek</label>Sampled and proofread</change>
+         <change>
+            <date>2010-02</date>
+            <label>Kayla Ondracek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:156931:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 22 -->
+            <p>MOTIVES TO INDUCE THE Proteſtant Princes To mind the worke of peace Eccleſiaſticall amongſt them<g ref="char:EOLhyphen"/>ſelves.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>William Hope,</hi> and are to be ſold at the Unicorne in <hi>Cornehill,</hi> 1641.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:156931:2"/>
+            <!-- PDF PAGE 23 -->
+            <pb n="1" facs="tcp:156931:2"/>
+            <!-- PDF PAGE 23 -->
+            <head>MOTIVES TO INDUCE THE <hi>PROTESTANT PRINCES</hi> to mind the work of peace Eccleſiaſticall amongſt themſelves:</head>
+            <p n="1">1. <seg rend="decorInit">T</seg>He firſt is, If Proteſtants be not reconci<g ref="char:EOLhyphen"/>led together, it will be impoſſible to prevent the utter ruine of their Chur<g ref="char:EOLhyphen"/>ches, and overthrow of their States in Germanie: For the maxime of States which Chriſt teacheth is infallible; <hi>Every kingdome</hi> (ſaith hee) <hi>divided againſt it ſelfe, is brought to nought; and every citie (or houſe) divided againſt it ſelfe, ſhall not ſtand.</hi>
+            </p>
+            <p>Whence then the Apoſtles inference followeth, and is found by experience dolefully true, <hi>That when wee bite and devoure one another, we ſhall</hi> (if we take not heed) <hi>be conſumed one of another.</hi> Therefore we muſt lay this for a fundamentall concluſion, Except the ground of evill (which is the diſtance of mens ſpirits, either oppoſite, or eſtranger'd one from another for
+<pb n="2" facs="tcp:156931:3"/>
+               <!-- PDF PAGE 24 -->matters of Religion) be taken away from amongſt Proteſtants, that their affections will be alwaies divi<g ref="char:EOLhyphen"/>ded, their intentions will never be brought together, their counſels will never either fundamentally or ef<g ref="char:EOLhyphen"/>fectually concurre, and conſequently, no confedera<g ref="char:EOLhyphen"/>tion nor conjunction in reall indeavours will ever be brought to any purpoſe amongſt them. And with<g ref="char:EOLhyphen"/>out this, I may freely ſay, that there is no humane ap<g ref="char:EOLhyphen"/>pearance of any ſafetie for the ſtate of Proteſtants in Germanie.</p>
+            <p n="2">2. In the ſecond place, it is evidently knowne, That the houſe of Auſtria, doth ſettle a forme of go<g ref="char:EOLhyphen"/>vernment in the Empire conformable to the Spaniſh <hi>Maximes</hi> of State, which will introduce a moſt abſo<g ref="char:EOLhyphen"/>lute and unlimited power of the <hi>Emperour</hi> over all the free States and Princes in Germanie; that when hee ſhall be able to command the ſtrength of that vaſt body at his owne will, hee may be able by it to con<g ref="char:EOLhyphen"/>quer the reſt of the Europian States, and ſo erect his intended Monarchie.</p>
+            <p>Which becauſe nothing can ſo much hinder, as the publicke profeſſion of the Proteſtant religion; there<g ref="char:EOLhyphen"/>fore they have concluded a totall extirpation there<g ref="char:EOLhyphen"/>of, together with the impoveriſhing and deſolation of the Proteſtant States: To which effect theſe means have been, and are ſtill practiſed:</p>
+            <list>
+               <item>1. All is done that can be done, to keepe the Pro<g ref="char:EOLhyphen"/>teſtant Princes, and great houſes in perpetuall diviſi<g ref="char:EOLhyphen"/>ons one againſt another within the Empire.</item>
+               <item>2. The State of Religion <hi>ſub utraque</hi> in Bohemia hath been perſecuted, together with the ſtrength of the Protector thereof, the <hi>Prince Elector Palatine.</hi>
+               </item>
+               <item>3. The Schiſme of the Churches amongſt the other
+<pb n="3" facs="tcp:156931:3"/>
+                  <!-- PDF PAGE 24 -->Proteſtants hath been carefully fomented, not onely by the practiſe of unconſcionable Divines, who have beene hired to maintaine the pretences of a funda<g ref="char:EOLhyphen"/>mentall difference betwixt the Reformed and the Lutheran Religion, which in ſubſtance are but all one; but alſo by the eſtabliſhment of priviledges and pro<g ref="char:EOLhyphen"/>miſes made unto the Lutherans alone, that the Re<g ref="char:EOLhyphen"/>formed being excluded from the ſame, the occaſion of envie and diſputes, ſhould never be wanting a<g ref="char:EOLhyphen"/>mongſt them, no leſſe for worldly, then for ſpirituall cauſes.</item>
+               <item>4. Laſtly all poſſible endeavours, have been uſed to keep off a reall concurrence of intentions, betwixt foraigne States and the Princes of Germanie, leſt they ſhould be ſupported with militarie aſſiſtance, as in a common cauſe they ought to be.</item>
+               <item>5. Theſe being the meanes, by which Proteſtants are now extremely weakned, the Auſtrians will bee able in proceſſe of time to overthrow the ſame quite, and gaine all their own ends, if no courſe be taken to worke againſt them.</item>
+            </list>
+            <p>And to doe this, no way will ever be effectuall, either to ſtop their proceedings, and to preſerve theſe remnants, and recover the loſſes, but that which is moſt fit to unite the ſpirits of Proteſtants amongſt themſelves: And nothing ſo fit to doe this as the compoſition of their differences about Religion, which have occaſioned all theſe diſtractions, for which the houſe of Auſtria hath hitherto prevailed.</p>
+            <p n="3">3. The firſt ground and fundamental occaſion of this warre is the matter of Religion, in reſpect it is different from Poperie: for we know that hereupon the quarrell did firſt ariſe, and now we ſee that the
+<pb n="4" facs="tcp:156931:4"/>
+               <!-- PDF PAGE 25 -->Auſtrians re-eſtabliſh the ſame in all places which they conquer; Hence then it followeth, that the cauſe will be quitel oft, and in effect given over, if once the firſt intention of mainteining the ſtate of Religion be laid aſide: If the worke of <hi>Eccleſiaſticall reconcilement</hi> (without which the publick profeſſion of religion cannot well ſtand) be not aimed at and proſecuted as it ought to be.</p>
+            <p n="4">4. Seeing God hath honoured moſt of the Prote<g ref="char:EOLhyphen"/>ſtant Princes, and chiefly the Palatine houſe, to ſuffer thus much, and to be brought thus low, for the cauſe of Religion, which is moſt put at; therefore we may firmely conclude that he will raiſe againe the Pala<g ref="char:EOLhyphen"/>tine houſe, and the other Princes which have ſuffered for his Churches ſake, if they leave not the cauſe; for it is certain that he will at laſt raiſe his Church, becauſe it is impoſsible that ſhee ſhould fall ſo, as to lie for ever. Now when this ſhall come to paſſe, then hee will alſo re-eſtabliſh thoſe that have ſuffered for the ſame, and have remained faithfull unto him conſtant<g ref="char:EOLhyphen"/>ly unto the end: and although they ſhould faile him, yet he cannot deny himſelfe; or be failing to his own cauſe.</p>
+            <p>But in a caſe of their falling away (as <hi>Mordecai</hi> ſaid to <hi>Eſther,</hi> 4.13, 14.) <hi>Deliverance will be wrought ano<g ref="char:EOLhyphen"/>ther way,</hi> becauſe Gods worke depends not upon the counſels and endeavours of men, but ſuch as hee pleaſeth to make uſe of; for his ſervice depends upon the iſſue of his worke. Therefore if ever he raiſeth the houſe Palatine, and other Princes againe, hee will certainly uſe no other meanes to doe it, but the mat<g ref="char:EOLhyphen"/>ter of Religion, for which they have ſuffered: And indeed, in all humane appearance, it is impoſsible
+<pb n="5" facs="tcp:156931:4"/>
+               <!-- PDF PAGE 25 -->that the houſe Palatine can henceforth be in any ſafe<g ref="char:EOLhyphen"/>tie and ſplendor, without the re-eſtabliſhment of Religion. For, to ſpeake rationally, there is no hu<g ref="char:EOLhyphen"/>mane appearance of poſsibility, that it ſhould receive any powerfull ſupport from any, nor can it expect credit or eſtimation by any, but from, and by thoſe that are now in the ſame caſe with it ſelfe, who by reaſon of their oppoſition to the houſe of Auſtria's power, and prevailing intentions, muſt reſolve to ſtand and fall together with it.</p>
+            <p>Therefore if the Proteſtant Princes intend their own reſtitution and preſervation, they muſt needs al<g ref="char:EOLhyphen"/>ſo intend the re-eſtabliſhment and conſervation of the reformed Churches in Germanie; and ought, as I ſupppoſe, to make this intention no leſſe a funda<g ref="char:EOLhyphen"/>mentall reaſon of State in all their conjoint or ſeve<g ref="char:EOLhyphen"/>rall proceedings, then the houſe of Auſtria maketh the oppoſite intention fundamentall unto it ſelfe.</p>
+            <p>And to doe this, there is none other way ſo likely, or ſo ſure to doe good, or ſo ſafe without danger, or ſo lawfull and laudable before. God and man, as this is, of procuring a reconcilement of differences in Re<g ref="char:EOLhyphen"/>ligion, that the body and caſes of all Proteſtants being made one and the ſame, their unitie may be their ſtrength, and their Religion may be their preſervati<g ref="char:EOLhyphen"/>on: becauſe God hath promiſed, that when <hi>we ſhall ſeeke firſt his kingdome, and the righteouſneſſe thereof, that then all other things ſhall be added unto us.</hi>
+            </p>
+            <p n="5">5 The leaders of a weake partie, cannot be other<g ref="char:EOLhyphen"/>wiſe ſupported, then in making themſelves conſide<g ref="char:EOLhyphen"/>rable by winning the affections and hearts of the Common people: And to doe this, nothing is more fit in its owne nature, or at this time more ſeaſonable,
+<pb n="6" facs="tcp:156931:5"/>
+               <!-- PDF PAGE 26 -->then to undertake and follow out the cauſe of Reli<g ref="char:EOLhyphen"/>gion, in a way which is unblameable, tending to brotherly love and reconciliation.</p>
+            <p n="6">6 A generall peace is ſued for, but, except this uni<g ref="char:EOLhyphen"/>tie of Proteſtants amongſt themſelves be really ta<g ref="char:EOLhyphen"/>ken to heart, it is not like that ever it will be obtai<g ref="char:EOLhyphen"/>ned, or being granted, ſafely and inviolably kept.</p>
+            <p>But if this buſineſſe can once be brought unto ſome perfection, no doubt but it will daunt the Au<g ref="char:EOLhyphen"/>ſtrians more, then any thing which can be attem<g ref="char:EOLhyphen"/>pted, and conſequently will be a greater meanes of peace then any thing elſe.</p>
+            <p n="7">7 To oppoſe the Auſtrian and Papall deſignes a<g ref="char:EOLhyphen"/>gainſt Proteſtants, no courſe more rationall and ef<g ref="char:EOLhyphen"/>fectuall can be deviſed, then to croſſe the intentions of thoſe counſels, whereby they get their greateſt advantages. Seeing therefore that it is moſt cleere, that their chiefeſt advantages ariſe from the diviſion of Proteſtants amongſt themſelves for matters of Religion, it followeth, that no courſe can be taken in hand more fit to oppoſe them, then to heale theſe breaches whereby they have prevailed.</p>
+            <p n="8">8 Laſtly God doth require thoſe whom hee hath eſtabliſhed in places of eminent authority, that they ſhould be carefull to imploy themſelves and make uſe of their eminency in his ſervice: Now his ſervice is nothing elſe, but to doe good to the myſticall body of his Sonne Jeſus Chriſt, which is his Church. For all the dignitie which is beſtowed upon men, is given to this end, that Gods kingdome may be advanced in their greatneſſe.</p>
+            <p>Therefore this dutie is to be taken to heart, not onely for worldly reaſons, but alſo for conſcience
+<pb n="7" facs="tcp:156931:5"/>
+               <!-- PDF PAGE 26 -->ſake, as being an obligation laid by God upon the places of great men: For ſuch as are honoured by God with the firſt places above all other men, are ob<g ref="char:EOLhyphen"/>liged reciprocally to honour him in the firſt places of their thoughts; which if they doe, he hath promi<g ref="char:EOLhyphen"/>ſed to adde more honour unto them.</p>
+            <p>
+               <hi>Thoſe that honour me</hi> (ſaith the Lord) <hi>I will honour, and hee that deſpiſeth mee ſhall be lightly eſteemed.</hi> To this purpoſe then, the words of the Prophet <hi>Azariah,</hi> 2 <hi>Chron.</hi> 15.2, 3, 4, 5, 6, 7. ſpoken to King <hi>Aſah,</hi> may be at this time fitly applyed to all Proteſtant Princes: <hi>Heare me</hi> (ſaith he) <hi>Aſah and all Judah and Benjamin: The Lord is with you while yee be with him, and if yee ſeeke him, he will be found of you; if yee forſake him, he will for<g ref="char:EOLhyphen"/>ſake you:</hi> Now for a long ſeaſon Iſrael hath beene without the true God, and without a teaching Prieſt, and without Law: But when they in their trouble did turne unto the Lord God of Iſrael, and ſought him, he was found of them. <hi>And in thoſe dayes there was no peace to him that went out, nor to him that came in, but great vexations were upon all the inhabitants of the Country, and Nation was deſtroied of nation, and Citie of citie, for God did vex them with all adverſities: Be ſtrong therefore, and let not your hands be weake, for your worke ſhall be rewarded.</hi>
+            </p>
+            <p>Theſe are the words of the Prophet: From whence we obſerve, that when the afflictions of the Church are greateſt, then the opportunitie of working, and gaining a full reward is moſt ſeaſonable.</p>
+            <p>Therefore this is a dutie unto which all Prote<g ref="char:EOLhyphen"/>ſtant Princes and States-men are bound, not only for reaſons of State, but alſo by reaſon of conſcience; for this is the only thing that God doth regard in all men, namely what they intend to doe for conſcience unto him: For if we ſerve God for other end, then for
+<pb n="8" facs="tcp:156931:6"/>
+               <!-- PDF PAGE 27 -->himſelfe, although wee doe his worke, yet it is not thanks worthy; neither can a bleſsing upon any other undertaking be hoped for, except this buſineſſe alſo be heartily intended.</p>
+            <p>For God that ſeeth the hearts, doth bleſſe men ac<g ref="char:EOLhyphen"/>cording to their ſecret intentions towards himſelfe, which he knoweth beſt. God is juſt and as wee deale with him, ſo he deales with us, <hi>with the pure, he ſhew<g ref="char:EOLhyphen"/>eth himſelfe pure, and with the froward, he ſheweth himſelfe froward, and doth reward every man according to the clea<g ref="char:EOLhyphen"/>neſſe of his hands in his eye-ſight.</hi> Let us look to <hi>David;</hi> he did proſper, becauſe God was with him: And why was God with him? Becauſe his heart was with God in uprightneſſe: He teſtifieth himſelfe that this was the cauſe of his deliverances, <hi>Pſal.</hi> 18.16. <hi>to</hi> 27.</p>
+            <p>And afterwards, when hee was come to the king<g ref="char:EOLhyphen"/>dome, What care had he to bring Gods Arke into his Citie? Nay, what zeal had he for the houſe of God, that it might be built, when he made a ſolemne vow never to reſt, till hee knew the place which God would appoint for the building of it? And this was that which God regarded in him, and rewarded. For he had no ſooner intended to build an houſe unto God, but God revealeth his intention towards him, that he would eſtabliſh his throne and houſe for ever.</p>
+            <p>Thus then God is a faithfull maſter to faithfull ſervants, and rewardeth carefully all good endeavours taken up for his Name ſake: Therefore it is cer<g ref="char:EOLhyphen"/>taine, he will be mindfull of thoſe that minde his Church, he will honour thoſe that honour his cauſe, hee will have good intentions towards thoſe, that meane uprightly with him, and hee will invinci<g ref="char:EOLhyphen"/>bly maintaine ſuch as, by ſuffering for him, have mainteined the truth of the Goſpel: From all which conſiderations we may thus conclude, that except the
+<pb n="9" facs="tcp:156931:6"/>
+               <!-- PDF PAGE 27 -->worke of <hi>Eccleſiaſticall</hi> reconcilement be ſeriouſly in<g ref="char:EOLhyphen"/>tended, all theſe evils will follow:</p>
+            <list>
+               <item>Firſt, the Proteſtant Churches and States over<g ref="char:EOLhyphen"/>throw will be inevitable in Germanie.</item>
+               <item>Secondly, the Auſtrian abſolute government will take effect over it.</item>
+               <item>Thirdly, the true cauſe for which the war was un<g ref="char:EOLhyphen"/>dertaken will be quite deſerted.</item>
+               <item>Fourthly, the ſufferings of the Proteſtant Princes will be (which God forbid) remedileſſe, and the State thereof irrecoverable.</item>
+               <item>Fiftly, the affections of all men will decay, and be loſt from the Leaders of the cauſe.</item>
+               <item>Sixtly, a generall peace will never either be obtai<g ref="char:EOLhyphen"/>ned, or kept inviolable.</item>
+               <item>Seventhly, the Auſtrian, and Papall deſignes will not be directly oppoſed.</item>
+               <item>Eighthly and laſtly, the chiefe dutie to which all Proteſtant Princes are bound in conſcience towards God, will be wholly neglected, for which cauſe grea<g ref="char:EOLhyphen"/>ter judgements will ſeaze upon them.</item>
+            </list>
+            <p>But to prevent all thoſe evils, the eſtabliſhment of Religion in Germanie, by the compoſure of Ec<g ref="char:EOLhyphen"/>cleſiaſticall differences, will be a meanes uſefull and ſufficient.</p>
+            <div type="extract">
+               <head>An Extract out of the 27. booke of the Hiſtorie of <hi>Thuanus, Tom.</hi> 2. <hi>pa.</hi> 28. <hi>Edit. Gen.</hi>
+               </head>
+               <p>ABout this time came Ambaſſadours from Kings and Princes, who (according to the uſuall Stile and Ceremonies due to Princes) after they had con<g ref="char:EOLhyphen"/>doled the death of King <hi>Francis,</hi> congratulated the ſucceſsion of King <hi>Charles</hi> to the Crowne. Amongſt
+<pb n="10" facs="tcp:156931:7"/>
+                  <!-- PDF PAGE 28 -->theſe was <hi>George Glukus</hi> the Ambaſſadour of <hi>Frederick</hi> King of Denmarke, who had been oftentimes before ſent into France, and long remained there: He, being invited to dinner by the King of Navarre, (induced thereunto by his wives advice) and (as it is reported) put in hope by him, that, before the yeare ſhould goe about, he ſhould ſee Gods purer worſhip celebrated thorough all that kingdome, and therefore deſired by him, that he would aſſure his King as much: having firſt returned thankes to God, and then approved the reſolutions of the King therein, deſired of him againe, that he would uſe his beſt indevours that <hi>Calvins</hi> do<g ref="char:EOLhyphen"/>ctrine (which the Switzers then profeſt) might not be entertained there, but rather that the <hi>Auguſtane</hi> Con<g ref="char:EOLhyphen"/>feſsion, drawne from <hi>Luthers Jenets,</hi> might be intro<g ref="char:EOLhyphen"/>duced: By which meanes he aſſured him, hee ſhould gaine no ſmall reſpect from the King of Swede and Denmarke, and all the Germane Proteſtants, the extent of whoſe Dominions came not ſhort of all thoſe Countries which acknowledged obedience to the Pope. To which the King made anſwer thus, That <hi>Luther</hi> and <hi>Calvin</hi> both diſſented from the Pope in forty points, in thirty eight whereof they both agreed; thus there were onely two remained in controverſie then betwixt them, and that, in his o<g ref="char:EOLhyphen"/>pinion, both parts ſhould unite their meanes and forces to ſuppreſſe the Common Enemie, and that once done, the reconciling of the two points yet in queſtion, and reſtoring of the Church of God to the ancient purity and ſplendor of it, would with far leſſe difficultie be effected.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
